@@ -1,0 +1,25 @@
+1. we can see that in this , gender is not playing any role because , even if the gender is 1 or 0 , the distribution is equal
+
+
+2. the ratio of sineor citizen and churning is much more than not senior citizen and dropping , so we need to focus on senior citizens and make decisions according to them
+
+
+3. if the person does nto has pertner , then the dropping ratio is high but for couples , the dropping rate is much low . So need to focus on singles
+
+
+4. if person has dependents , then first they does not even enroll much , and if they enroll , then they does not churn . so need to market for taking them to platform 
+also the dropping rate of the person without dependents is high .
+
+
+5. there are good amount of people that enroll for phone service , and the ratio is almost similar to the people that does not enroll for phone service , so does not gave a good insight
+
+
+6. paperless billing also has a significant effect because the people with paper billing , are less churning .
+
+
+7. in the tenure distribution , the distribution is left side skewed so firstly have to use log transform , then people with high tenure are less likely to churn and that's obvious
+
+
+8. total charges are also less skewed and need teh log transform , it can make the perfect normal distribution
+and another strange thing is that , the less total charges are more churning
+
