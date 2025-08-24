@@ -54,7 +54,7 @@ Metric	Score
 ROC AUC Score	0.84
 Churn Recall	0.68
 Churn F1-Score	0.61
-Overall Accuracy	77%
+Overall Accuracy	80%
 
 The model successfully improved recall for the churn class, correctly identifying 68% of all customers who were about to leave.
 
